@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Cadiology",
+      "description": "Online Cardiology Consultation, Connect via Video call with our Experts. Enquire Now. Manipal Hospital HAL offers Video Consultation with Cardiology Doctors.",
+      "price": 450,
+      "img": "https://images.pexels.com/photos/8460099/pexels-photo-8460099.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "totalDes": "The latest science in a clinical Asia-Pacific perspective. A three-day event you won’t forget.  Join renowned opinion leaders from across Europe and the Asia-Pacific region for informal chats and cutting-edge sessions. The Heart Team Course - focus on transcatheter therapies for valvular heart disease #PCRLV ",
+      "address": " Home Land, Uk"
+    },
+    {
+      "name": "Dentist",
+      "description": "Online Dentist Consultation, Connect via Video call with our Experts. Enquire Now. Manipal Hospital HAL offers Video Consultation with Dentist Doctors.",
+      "price": 550,
+      "img": "https://images.pexels.com/photos/4687254/pexels-photo-4687254.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "totalDes": "The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other .As doctors of oral health, dentists are trained to diagnose, treat and prevent oral diseases; promote oral health; and create treatment plans to maintain or  ",
+      "address": "Load Land,JP"
+    },
+    {
+      "name": "Chiropractor",
+      "description": "Chiropractic is a alternative medicine that is concerned with the diagnosis and treatment of mechanical disorders of the musculoskeletal.",
+      "price": 650,
+      "img": "https://images.pexels.com/photos/4506109/pexels-photo-4506109.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "totalDes": "A chiropractor is a health care professional focused on the diagnosis and treatment of neuromuscular disorders, with an emphasis on treatment through manual ,Chiropractic care is centered around spinal manipulation. However, practitioners also study how the spine and its structures are related to the body's function. ",
+      "address": "MeriLand ,USA"
+    },
+    {
+      "name": "Pediatrician",
+      "description": "A pediatrician is a medical doctor who manages the physical, behavioral, and mental care for children from birth until age 18.",
+      "price": 750,
+      "img": "https://images.pexels.com/photos/5998450/pexels-photo-5998450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "totalDes": "A pediatrician is a medical doctor who manages the physical, behavioral, and mental care for children from birth until age 18. A pediatrician is trained to diagnose and treat a broad range of childhood illnesses, from minor health problems to serious diseases. ",
+      "address": "BathrWay ,USA"
+    }
+  ]
